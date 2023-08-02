@@ -101,5 +101,7 @@ def main():
     st.header('Most Monetary Day')
     plot_most_monetary_day()
 
+
 if __name__ == '__main__':
     main()
+  
